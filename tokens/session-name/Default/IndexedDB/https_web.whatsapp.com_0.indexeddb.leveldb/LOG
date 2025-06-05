@@ -1,0 +1,15 @@
+2025/06/05-16:44:36.212 2484 Reusing MANIFEST C:\Temp\ws-vscode\Bot Whatsapp Com Venom\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/05-16:44:36.213 2484 Recovering log #292
+2025/06/05-16:44:36.224 2484 Reusing old log C:\Temp\ws-vscode\Bot Whatsapp Com Venom\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000292.log 
+2025/06/05-16:44:37.359 1624 Level-0 table #298: started
+2025/06/05-16:44:37.370 1624 Level-0 table #298: 448234 bytes OK
+2025/06/05-16:44:37.375 1624 Delete type=0 #292
+2025/06/05-16:44:37.375 1624 Manual compaction at level-0 from '\x00T\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00U\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/05-16:44:38.250 2c38 Compacting 1@1 + 2@2 files
+2025/06/05-16:44:38.309 2c38 Generated table #299@1: 79790 keys, 2245499 bytes
+2025/06/05-16:44:38.354 2c38 Generated table #300@1: 43500 keys, 1696594 bytes
+2025/06/05-16:44:38.354 2c38 Compacted 1@1 + 2@2 files => 3942093 bytes
+2025/06/05-16:44:38.357 2c38 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/06/05-16:44:38.357 2c38 Delete type=2 #294
+2025/06/05-16:44:38.357 2c38 Delete type=2 #295
+2025/06/05-16:44:38.357 2c38 Delete type=2 #298
